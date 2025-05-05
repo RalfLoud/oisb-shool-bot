@@ -32,7 +32,7 @@ function setupAdmin(bot) {
     
     if (text === "➕ Добавить вопрос") {
       ctx.session.adminStep = "add_question_text";
-      return await ctx.reply("Введите текст нового вопрос:");
+      return await ctx.reply("Введите текст нового вопроса:");
     }
     
     if (text === "❌ Удалить вопрос") {

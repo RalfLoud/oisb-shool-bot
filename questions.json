@@ -1,13 +1,8 @@
 [
   {
-    "key": "position",
-    "type": "text",
-    "question": "asdasd"
-  },
-  {
     "key": "improvements",
     "type": "text",
-    "question": "Что бы вы хотели улучшить в своей работе?"
+    "question": "Вы хотите пройти обучение?"
   },
   {
     "key": "training",
@@ -31,12 +26,7 @@
     "question": "Любые дополнительные комментарии:"
   },
   {
-    "question": "Подразделение",
-    "type": "buttons",
-    "options": [
-      "Гы",
-      "га",
-      "го"
-    ]
+    "question": "Какой формат обучения вы предпочитаете?",
+    "type": "text"
   }
 ]
